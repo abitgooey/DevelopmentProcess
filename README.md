@@ -84,7 +84,7 @@ Please do not send anything to be QA'd that is not fit for purpose.
 
 Anything that is sent and does not meet acceptable standards will be sent back without explanation for you to complete in your own time.
 
-All our work should be of a high standard, if not we will lose clients, thus lost revenue.
+All our work should be of a high standard.
 
 ---
 
