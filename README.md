@@ -1,7 +1,7 @@
 # DevelopmentProcess
 This document has been produced for all developers working at Gooey, and explains what is expected in regards to project processes.
 
-In regards to coding standards please see [Gooey Coding Standards] (https://github.com/abitgooey/CodingStandards).
+In regards to coding standards please see [Gooey Coding Standards](https://github.com/abitgooey/CodingStandards).
 
 ---
 ## Table of contents
