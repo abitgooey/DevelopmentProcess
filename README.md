@@ -29,7 +29,7 @@ Before coding commences you should:
 ## During-development
 
 - All questions to development manager or project manager to be logged via Codebase.
-- If you become stuck on an element, and need support, in the first instance log a ticket on Codebase with the development manager or the developer you would like to assist. They will then shedule in time to help. Use your descrection with this one, if it's a quick question or a quick fix, no need to log it, but if it's a task that will take some time please log it via codebase.
+- If you become stuck on an element, and need support, in the first instance log a ticket on Codebase with the development manager or the developer you would like to assist. They will then shedule in time to help. Use your discretion with this one, if it's a quick question or a quick fix, no need to log it, but if it's a task that will take some time please log it via codebase.
 - If you think you are going to miss your deadline you must let the development manager and project manager know at the earliest opportunity. i.e. On the day it is due is not acceptable.
 - If working from home the deadline must be met as agreed during pre-development.
 
