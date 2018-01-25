@@ -1,7 +1,7 @@
 # DevelopmentProcess
 This document has been produced for all developers working at Gooey, and explains what is expected in regards to project processes.
 
-In regards to coding standards please see Gooey Coding Standards.
+In regards to coding standards please see [Gooey Coding Standards] (https://github.com/abitgooey/CodingStandards).
 
 ---
 ## Table of contents
@@ -95,4 +95,3 @@ Deadlines need to be met at all times unless agreed otherwise.
 ---
 
 ### Produced by James Holloway - Gooey (Last updated 25/01/2018)
-
