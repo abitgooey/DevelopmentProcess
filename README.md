@@ -64,6 +64,12 @@ deny from all
 </Files>
 ```
 
+- Ensure the wp-config.php has the below code in it (to stop admin users installing plugins, taking unauthorised backup's of the site etc).
+
+```
+define( 'DISALLOW_FILE_MODS', true );
+```
+
 The project will be QA'd however by adhering to the above there should be minimal QA amends.
 
 ---
