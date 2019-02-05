@@ -54,6 +54,7 @@ When you have finished development, and before you send to the development manag
 ### WordPress
 
 - Ensure that the CMS is easy to use and pages can be built easily.
+- Ensure all pages are built using ACF Flexible Content (a page builder), unless agreed otherwise.
 - Ensure the site has a 404 error page.
 - Ensure that the htaccess has the below code in it.
 
